@@ -3,7 +3,8 @@
 
 An interactive sales analytics dashboard built with **Streamlit + Plotly + Pandas** using the classic Superstore dataset. Built as a portfolio project to demonstrate end-to-end data analysis and dashboard deployment skills.
 
-
+![view](image.png)
+![charts](image-1.png)
 ---
 
 ## 🚀 Run Locally (5 minutes)
