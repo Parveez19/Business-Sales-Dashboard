@@ -1,10 +1,8 @@
 # 📊 Superstore Sales Dashboard
 
-> **Live Demo:** `https://YOUR-APP-NAME.streamlit.app` ← update after deploying
 
 An interactive sales analytics dashboard built with **Streamlit + Plotly + Pandas** using the classic Superstore dataset. Built as a portfolio project to demonstrate end-to-end data analysis and dashboard deployment skills.
 
-![Dashboard Preview](https://via.placeholder.com/900x500/0f1117/5c6bc0?text=Sales+Dashboard+Preview)
 
 ---
 
@@ -12,7 +10,7 @@ An interactive sales analytics dashboard built with **Streamlit + Plotly + Panda
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/superstore-dashboard.git
+git clone https://github.com/Parveez19/Business-Sales-Dashboard
 cd superstore-dashboard
 ```
 
@@ -92,11 +90,3 @@ superstore-dashboard/
 │   └── config.toml         # Dark theme config
 └── README.md
 ```
-
----
-
-## 💬 Interview Talking Points
-
-> "I built this end-to-end — data cleaning in Pandas, SQL-style aggregations, and a live dashboard deployed on Streamlit Cloud. The sidebar filters dynamically update all seven charts and five KPI cards simultaneously. I used Plotly for interactivity so stakeholders can hover to see exact values.
->
-> The key insight: the West region had 30% higher revenue but lower profit margins than the East — suggesting a discounting problem worth investigating. Tables and Bookcases are consistently loss-making sub-categories, which points to a structural pricing issue in the Furniture category."
